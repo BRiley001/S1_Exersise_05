@@ -54,7 +54,7 @@ div.col-3-4 {
 }
 
 
-
-
-
 /* Grid Outline Styles */
+div {
+    outline: 1px solid red;
+}
